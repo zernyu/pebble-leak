@@ -1,0 +1,17 @@
+{
+  "uuid": "c1bfc99f-2bd9-4f09-9ee9-83bfd42876f6",
+  "shortName": "pebble-leak",
+  "longName": "pebble-leak",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
