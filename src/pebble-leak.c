@@ -26,6 +26,7 @@ static void init(void) {
 }
 
 static void deinit(void) {
+  window_stack_pop_all(false);
   window_destroy(window);
   window_destroy(window_too);
 }
